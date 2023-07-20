@@ -2,7 +2,7 @@ import 'package:geocoding/geocoding.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:climateapp/services/location.dart';
 import 'package:climateapp/services/networking.dart';
-const apikey = '77bd05f15bf117e73f4c8c588dfae7d3';
+const apikey = 'yourapikey';
 class weatherModel_ {
 
 
